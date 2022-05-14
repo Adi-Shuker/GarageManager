@@ -1,6 +1,6 @@
 # GarageManager
 
-Running Instructions:
+Running Instructions - using maven wrapper:
 
 1. Enter project folder
 2. Compilation - mvnw.cmd clean install
